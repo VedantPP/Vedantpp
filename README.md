@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:12002F,45:3B0764,100:7C3AED&height=220&section=header&text=YOUR%20NAME&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=E%26TC%20Engineering%20Student%20%7C%20Embedded%20Systems%20%7C%20Electronics%20Enthusiast&descAlignY=58&descSize=16&animation=fadeIn" width="100%" alt="Profile Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:12002F,45:3B0764,100:7C3AED&amp;height=220&amp;section=header&amp;text=Vedant%20Banugade&amp;fontSize=52&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;desc=E%26TC%20Engineering%20Student%20%7C%20Embedded%20Systems%20%7C%20Electronics%20Enthusiast&amp;descAlignY=58&amp;descSize=16&amp;animation=fadeIn" width="100%" alt="Mr. Vedant Banugade Profile Header" />
 </p>
 
 <p align="center">
