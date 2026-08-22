@@ -1,5 +1,15 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:12002F,45:3B0764,100:7C3AED&amp;height=220&amp;section=header&amp;text=Vedant%20Banugade&amp;fontSize=52&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;desc=E%26TC%20Engineering%20Student%20%7C%20Embedded%20Systems%20%7C%20Electronics%20Enthusiast&amp;descAlignY=58&amp;descSize=16&amp;animation=fadeIn" width="100%" alt="Vedant Banugade Profile Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1026,35:312E81,70:6D28D9,100:A78BFA&height=280&section=header&text=Mr.%20Vedant%20Banugade&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=E%26TC%20Engineering%20Student%20%E2%80%A2%20Embedded%20Systems%20%E2%80%A2%20Electronics%20Explorer&descSize=17&descAlignY=58&animation=fadeIn" width="100%" alt="Mr. Vedant Banugade" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=800&lines=Building+with+Arduino%2C+sensors%2C+and+electronics;Exploring+embedded+systems%2C+IoT%2C+and+PCB+design;Learning+one+circuit%2C+one+project%2C+one+idea+at+a+time" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/E%26TC-Engineering_Student-4C1D95?style=for-the-badge&logo=arduino&logoColor=white" alt="E&TC Engineering Student" />
+  <img src="https://img.shields.io/badge/Focus-Embedded_Systems-5B21B6?style=for-the-badge&logo=esphome&logoColor=white" alt="Embedded Systems" />
+  <img src="https://img.shields.io/badge/Exploring-PCB_%26_IoT-7C3AED?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="PCB and IoT" />
 </p>
 
 <p align="center">
