@@ -6,15 +6,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=19&amp;duration=3000&amp;pause=900&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=Building+with+Arduino%2C+sensors%2C+and+electronics;Exploring+embedded+systems%2C+IoT%2C+and+PCB+design;Learning+one+circuit%2C+one+project%2C+one+idea+at+a+time" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/E%26TC-Engineering_Student-4C1D95?style=for-the-badge&amp;logo=arduino&amp;logoColor=white" alt="E and TC Engineering Student" />
-  <img src="https://img.shields.io/badge/Focus-Embedded_Systems-5B21B6?style=for-the-badge&amp;logo=esphome&amp;logoColor=white" alt="Embedded Systems" />
-  <img src="https://img.shields.io/badge/Exploring-PCB_and_IoT-7C3AED?style=for-the-badge&amp;logo=raspberrypi&amp;logoColor=white" alt="PCB and IoT" />
-</p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=800&lines=Building+with+Arduino%2C+sensors%2C+and+electronics;Exploring+embedded+systems%2C+IoT%2C+and+PCB+design;Learning+one+circuit%2C+one+project%2C+one+idea+at+a+time" alt="Typing SVG" />
-</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/E%26TC-Engineering_Student-4C1D95?style=for-the-badge&logo=arduino&logoColor=white" alt="E&TC Engineering Student" />
